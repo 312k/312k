@@ -3,10 +3,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=312k&theme=nord)
 ## Atcoder
 [![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=k312&theme=nord)](https://github.com/KATO-Hiro/AtCoderTrophies)
-## 競技プログラミング
+## バッジ
 [![k312](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fk312)](https://atcoder.jp/users/k312)
 [![312k](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2F312k)](https://codeforces.com/profile/312k)
-## Qiita
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/312k/posts.svg)](http://qiita.com/312k)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/312k/contributions.svg)](http://qiita.com/312k)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/312k/followers.svg)](http://qiita.com/312k)
